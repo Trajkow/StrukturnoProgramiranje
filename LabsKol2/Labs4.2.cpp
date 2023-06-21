@@ -14,9 +14,7 @@ int main() {
         scanf("%d", &arrB[i]);
     }
 
-    for (int i = 0; i < ; ++i) {
-        
-    }
+
     
     return 0;
 }
