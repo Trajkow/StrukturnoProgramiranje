@@ -1196,6 +1196,39 @@ build Labs21.exe: CXX_EXECUTABLE_LINKER__Labs21_Debug CMakeFiles/Labs21.dir/Labs
   TARGET_PDB = Labs21.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Labs22
+
+
+#############################################
+# Order-only phony target for Labs22
+
+build cmake_object_order_depends_target_Labs22: phony || CMakeFiles/Labs22.dir
+
+build CMakeFiles/Labs22.dir/LabsKol1/Labs22.cpp.obj: CXX_COMPILER__Labs22_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs22.cpp || cmake_object_order_depends_target_Labs22
+  DEP_FILE = CMakeFiles\Labs22.dir\LabsKol1\Labs22.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs22.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs22.dir\LabsKol1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs22
+
+
+#############################################
+# Link the executable Labs22.exe
+
+build Labs22.exe: CXX_EXECUTABLE_LINKER__Labs22_Debug CMakeFiles/Labs22.dir/LabsKol1/Labs22.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs22.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs22.exe
+  TARGET_IMPLIB = libLabs22.dll.a
+  TARGET_PDB = Labs22.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Labs34
 
 
@@ -2010,6 +2043,8 @@ build Labs20: phony Labs20.exe
 
 build Labs21: phony Labs21.exe
 
+build Labs22: phony Labs22.exe
+
 build Labs29.2: phony Labs29.2.exe
 
 build Labs3: phony Labs3.exe
@@ -2104,7 +2139,7 @@ build main: phony main.exe
 #############################################
 # Folder: D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug
 
-build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs34.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe
+build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs22.exe Labs34.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe
 
 # =============================================================================
 # Built-in targets
