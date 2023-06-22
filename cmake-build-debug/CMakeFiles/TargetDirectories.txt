@@ -38,6 +38,7 @@ D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs2
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs24.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs25.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs26.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs27.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs34.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Labs36.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Zadaca3.2.dir
