@@ -32,19 +32,16 @@ int main() {
 
         while (tempN) {
             int digitN = tempN % 10;
-            int temp = x;
-            while (temp) {
-                int digit = temp % 10;
+            int digit = x % 10;
 
-                if (digitN == digit) {
-                    flag = 0;
-                    break;
-                } else {
-                    flag = 1;
-                }
-
-                temp /= 10;
+            if (digitN == digit) {
+                flag = 0;
+                break;
+            } else {
+                flag = 1;
+                digit /= 10;
             }
+            tempN /= 10;
 
         }
         if (flag) {
