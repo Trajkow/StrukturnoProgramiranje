@@ -31,17 +31,19 @@ int main() {
         int tempN = n--;
 
         while (tempN) {
-            int digitN = tempN % 10;
             int digit = x % 10;
 
-            if (digitN == digit) {
-                flag = 0;
-                break;
-            } else {
-                flag = 1;
-                digit /= 10;
+            while (tempN) {
+                int digitN = tempN % 10;
+                if (digit == digitN) {
+                    flag = 0;
+                    break;
+                } else {
+                    flag = 1;
+                }
+                tempN /= 10;
             }
-            tempN /= 10;
+            x /= 10;
 
         }
         if (flag) {
