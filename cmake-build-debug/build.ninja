@@ -742,8 +742,8 @@ build Labs5.exe: CXX_EXECUTABLE_LINKER__Labs5_Debug CMakeFiles/Labs5.dir/LabsKol
 
 build cmake_object_order_depends_target_Labs6: phony || CMakeFiles/Labs6.dir
 
-build CMakeFiles/Labs6.dir/LabsKol1/Labs6.cpp.obj: CXX_COMPILER__Labs6_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs6.cpp || cmake_object_order_depends_target_Labs6
-  DEP_FILE = CMakeFiles\Labs6.dir\LabsKol1\Labs6.cpp.obj.d
+build CMakeFiles/Labs6.dir/LabsKol1/Labs6.c.obj: C_COMPILER__Labs6_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs6.c || cmake_object_order_depends_target_Labs6
+  DEP_FILE = CMakeFiles\Labs6.dir\LabsKol1\Labs6.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Labs6.dir
   OBJECT_FILE_DIR = CMakeFiles\Labs6.dir\LabsKol1
@@ -756,7 +756,7 @@ build CMakeFiles/Labs6.dir/LabsKol1/Labs6.cpp.obj: CXX_COMPILER__Labs6_Debug D$:
 #############################################
 # Link the executable Labs6.exe
 
-build Labs6.exe: CXX_EXECUTABLE_LINKER__Labs6_Debug CMakeFiles/Labs6.dir/LabsKol1/Labs6.cpp.obj
+build Labs6.exe: C_EXECUTABLE_LINKER__Labs6_Debug CMakeFiles/Labs6.dir/LabsKol1/Labs6.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Labs6.dir
@@ -907,8 +907,8 @@ build Labs10.exe: C_EXECUTABLE_LINKER__Labs10_Debug CMakeFiles/Labs10.dir/LabsKo
 
 build cmake_object_order_depends_target_Labs11: phony || CMakeFiles/Labs11.dir
 
-build CMakeFiles/Labs11.dir/LabsKol1/Labs11.cpp.obj: CXX_COMPILER__Labs11_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs11.cpp || cmake_object_order_depends_target_Labs11
-  DEP_FILE = CMakeFiles\Labs11.dir\LabsKol1\Labs11.cpp.obj.d
+build CMakeFiles/Labs11.dir/LabsKol1/Labs11.c.obj: C_COMPILER__Labs11_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs11.c || cmake_object_order_depends_target_Labs11
+  DEP_FILE = CMakeFiles\Labs11.dir\LabsKol1\Labs11.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Labs11.dir
   OBJECT_FILE_DIR = CMakeFiles\Labs11.dir\LabsKol1
@@ -921,7 +921,7 @@ build CMakeFiles/Labs11.dir/LabsKol1/Labs11.cpp.obj: CXX_COMPILER__Labs11_Debug 
 #############################################
 # Link the executable Labs11.exe
 
-build Labs11.exe: CXX_EXECUTABLE_LINKER__Labs11_Debug CMakeFiles/Labs11.dir/LabsKol1/Labs11.cpp.obj
+build Labs11.exe: C_EXECUTABLE_LINKER__Labs11_Debug CMakeFiles/Labs11.dir/LabsKol1/Labs11.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Labs11.dir
@@ -1633,8 +1633,8 @@ build Labs34.exe: CXX_EXECUTABLE_LINKER__Labs34_Debug CMakeFiles/Labs34.dir/Labs
 
 build cmake_object_order_depends_target_Labs36: phony || CMakeFiles/Labs36.dir
 
-build CMakeFiles/Labs36.dir/LabsKol1/Labs36.cpp.obj: CXX_COMPILER__Labs36_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs36.cpp || cmake_object_order_depends_target_Labs36
-  DEP_FILE = CMakeFiles\Labs36.dir\LabsKol1\Labs36.cpp.obj.d
+build CMakeFiles/Labs36.dir/LabsKol1/Labs36.c.obj: C_COMPILER__Labs36_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs36.c || cmake_object_order_depends_target_Labs36
+  DEP_FILE = CMakeFiles\Labs36.dir\LabsKol1\Labs36.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Labs36.dir
   OBJECT_FILE_DIR = CMakeFiles\Labs36.dir\LabsKol1
@@ -1647,7 +1647,7 @@ build CMakeFiles/Labs36.dir/LabsKol1/Labs36.cpp.obj: CXX_COMPILER__Labs36_Debug 
 #############################################
 # Link the executable Labs36.exe
 
-build Labs36.exe: CXX_EXECUTABLE_LINKER__Labs36_Debug CMakeFiles/Labs36.dir/LabsKol1/Labs36.cpp.obj
+build Labs36.exe: C_EXECUTABLE_LINKER__Labs36_Debug CMakeFiles/Labs36.dir/LabsKol1/Labs36.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Labs36.dir

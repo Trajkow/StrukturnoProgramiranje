@@ -90,11 +90,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="avsd">
-      <change afterPath="$PROJECT_DIR$/LabsKol1/Labs10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca8.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca1.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca1.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca11.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca11.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca6.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca6.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca7.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca7.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca8.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Dopolnitelni/Zadaca8.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca12.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca12.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca13.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca13.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca14.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca14.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca16.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca16.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca17.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca17.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca3.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca3.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca4.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca4.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca5.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca5.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca6.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca6.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca7.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca7.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kol2Zadaci/Zadaca9.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Kol2Zadaci/Zadaca9.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca10.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca11.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca12.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca12.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca14.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca15.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca9.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs11.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs11.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs12.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs12.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs13.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs14.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs14.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs15.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs15.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs16.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs17.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs17.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs18.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs18.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs19.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs19.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs20.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs21.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs21.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs22.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs22.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs23.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs23.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs24.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs24.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs25.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs25.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs26.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs26.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs27.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs27.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs28.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs28.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs29.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs29.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs30.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs30.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs31.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs31.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs34.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs34.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs36.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs36.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs4.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs6.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs7.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs8.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs8.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs9.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs1.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs1.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs2.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs2.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs29.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs29.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs3.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs3.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs4.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs4.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b18c7fff84145ba8f45e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-06-30T21-20-26-0767.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs11-Debug-16a4fae0b53f22e15b6b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs36-Debug-a85f6b23a3bb1ef9ab3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs6-Debug-066fb92a861c94e82245.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
@@ -125,10 +189,10 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs7.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs8.cpp" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs9.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LabsKol2/Labs4.2.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs7.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs8.c" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LabsKol1/Labs9.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LabsKol2/Labs4.2.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -654,7 +718,7 @@
       <workItem from="1687793697607" duration="159000" />
       <workItem from="1687965124159" duration="108000" />
       <workItem from="1687978370403" duration="1000" />
-      <workItem from="1688152926331" duration="2284000" />
+      <workItem from="1688152926331" duration="3389000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -726,7 +790,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687533186252</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="avsd">
+      <created>1688160127767</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688160127767</updated>
+    </task>
+    <task id="LOCAL-00012" summary="avsd">
+      <created>1688160195913</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688160195913</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -735,127 +813,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="avsd" />
     <option name="LAST_COMMIT_MESSAGE" value="avsd" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>17</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>20</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>22</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>23</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>24</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>26</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>25</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>27</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>28</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>30</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>31</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>29</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>32</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>33</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>34</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>35</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>36</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol1/Labs10.c</url>
-          <line>37</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
