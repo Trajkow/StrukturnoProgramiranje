@@ -7,7 +7,6 @@ int main() {
     int flag = 0;
 
     if (x < 10) {
-
         while (--n) {
             int temp = n;
 
@@ -28,28 +27,38 @@ int main() {
             }
         }
     } else {
-        int tempN = n--;
+        n--;
+        int tempx = x;
+        while (n) {
+            int temp = n;
+            int digitX = tempx % 10;
 
-        while (tempN) {
-            int digit = x % 10;
-
-            while (tempN) {
-                int digitN = tempN % 10;
-                if (digit == digitN) {
+            while (temp) {
+                int digit = temp % 10;
+                if (digitX == digit) {
                     flag = 0;
                     break;
+                    n--;
                 } else {
                     flag = 1;
+                    temp /= 10;
                 }
-                tempN /= 10;
             }
-            x /= 10;
+            if (flag) {
+                tempx /= 10;
+                if (tempx == 0) {
+                    break;
+                }
 
+            } else {
+                n--;
+                tempx = x;
+            }
         }
-        if (flag) {
-            printf("%d", tempN);
-            return 0;
 
+        if (flag) {
+            printf("%d", n);
+            return 0;
         }
     }
 
