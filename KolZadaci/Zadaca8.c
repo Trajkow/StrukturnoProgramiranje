@@ -38,7 +38,6 @@ int main() {
                 if (digitX == digit) {
                     flag = 0;
                     break;
-                    n--;
                 } else {
                     flag = 1;
                     temp /= 10;
@@ -63,7 +62,6 @@ int main() {
     }
 
     printf("0");
-
 
     return 0;
 }
