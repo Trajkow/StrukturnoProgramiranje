@@ -94,8 +94,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca12.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca12.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs35.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs35.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca13.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca14.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca14.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +169,7 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Labs32">
+  <component name="RunManager" selected="CMake Application.Zadaca14">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -672,7 +672,7 @@
       <workItem from="1687978370403" duration="1000" />
       <workItem from="1688152926331" duration="6034000" />
       <workItem from="1688219230374" duration="6356000" />
-      <workItem from="1688245498818" duration="5063000" />
+      <workItem from="1688245498818" duration="6353000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -842,7 +842,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688249664975</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Solved">
+      <created>1688250910350</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1688250910350</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
