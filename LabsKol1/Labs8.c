@@ -2,7 +2,6 @@
 
 int main() {
 
-    int flag = 0;
     int balance; // X denari
     int price; // Y cena
     int c1, c1Discount;
@@ -11,41 +10,50 @@ int main() {
     scanf("%d%d", &c1, &c1Discount);
     scanf("%d%d", &c2, &c2Discount);
 
+    float sum = 0;
     int counter = 0;
-    float sum = 0.0;
 
-    float c1popust = (100.0 - (float) c1Discount) / 100.0;
-    float c2popust = (100.0 - (float) c2Discount) / 100.0;
+    if (balance < price) {
+        printf("0 0.00");
+        return 0;
+    }
 
-    while (c1) {
+    for (int i = 0; i < c1; ++i) {
         if (sum < balance) {
             sum += price;
             counter++;
-            flag = 1;
         }
-        c1--;
+        if (sum > balance) {
+            sum -= price;
+            counter--;
+        }
     }
-    while (c2) {
-        if (sum <= balance) {
-            sum += price * c1popust;
+    for (int i = c1; i < c2; ++i) {
+        if (sum < balance) {
+            sum += price - c1Discount;
             counter++;
-            flag = 2;
         }
-        c2--;
+        if (sum > balance) {
+            sum -= price - c1Discount;
+            counter--;
+            printf("%d %.2f", counter, sum);
+            return 0;
+        }
     }
-    while (sum <= balance) {
-        sum += price * (c1popust + c2popust);
-        counter++;
-        flag = 3;
+    if(sum < balance) {
+        for (int i = 0; i < 100; ++i) {
+            if (sum < balance) {
+                sum += price - (c2Discount + c1Discount);
+                counter++;
+            }
+        }
+        if (sum > balance) {
+            sum -= price - (c2Discount + c1Discount);
+            counter--;
+        }
     }
 
-    if (flag == 1) {
-        printf("%d %.2f", --counter, sum - price);
-    } else if (flag == 2) {
-        printf("%d %.2f", --counter, sum - price * c1popust);
-    } else if (flag == 3) {
-        printf("%d %.2f", counter, sum - price * (c1popust + c2popust));
-    }
+    printf("%d %.2f", counter, sum);
 
     return 0;
 }
