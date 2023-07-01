@@ -89,75 +89,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="avsd">
+    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca8.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca8.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs1-Debug-413e7d647dca0960118f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs1.2-Debug-1ce5ebed700248e5ca9a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs12-Debug-55990b3ca275e243c1cb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs13-Debug-902b8703a1a95c4f4e93.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs14-Debug-6102c941186723710b5f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs15-Debug-29816b3f912430378e90.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs16-Debug-4f68034bbe370ae2b387.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs17-Debug-28f9b1c5b1600e032b36.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs18-Debug-d22328107c8f1b6b7728.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs19-Debug-b2f9ba58961918ac0131.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs2-Debug-0f4e2d96bed1ddb3a914.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs2.2-Debug-bdc24b8c5f50b27a1a38.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs20-Debug-a78de1c3c903c1f95c98.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs21-Debug-ec57d6a455b2826f6259.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs22-Debug-6fdac700a7c7b2ab9709.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs23-Debug-adbc9cd0050f4221c02e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs24-Debug-82ed6ffda3e6a046e8c1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs25-Debug-345acc129e6cffadec30.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs26-Debug-8a735e888091837ccf71.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs27-Debug-4a11353da82e4b78a5c8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs28-Debug-e777c4afcc0a586060a5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs29-Debug-99516a8f2d690842b734.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs29.2-Debug-3a267146b85551b6f176.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs3-Debug-eb5a6a638b4eef8dbda6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs3.2-Debug-ecf05e49f13aa2ed2079.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs30-Debug-fc25584ba59d11df127c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs31-Debug-fb02e86dcbd28585ae5c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs34-Debug-2f7a0d3e5e55c86555a0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs4-Debug-b20c0d10036c7ca87249.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs4.2-Debug-3a2e8d9a2c34a15559bf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs5-Debug-6ee33488ddb5d645340b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs7-Debug-a697ba7011a23af13267.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs8-Debug-be770ecdb49acfa6a203.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Labs9-Debug-e5dfa9d0b597252d2fa3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca1.3-Debug-7bf4d462a7d58ebde2e7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca10-Debug-57add5b6f3658fc2c4bc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca11-Debug-b69be84dc62230f14659.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca11.3-Debug-c0f90505e90a29607989.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca12-Debug-8c6b3ab1f55185fa167a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca12.2-Debug-b248c727bf6096f0dfa5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca13-Debug-4786e8004ffbe3b277af.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca13.2-Debug-62dd37aaf8dea45d7225.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca14-Debug-ce40182f0d058df927ef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca14.2-Debug-38142914a4570b9fa21b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca15-Debug-73555d12f3bb96ab7712.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca16.2-Debug-a7e67d3b9af163349230.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca17.2-Debug-362713782658a552f9a4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca3.2-Debug-581bbf18afd89ce13c13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca4.2-Debug-ecf9b83f588900e7a636.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca5.2-Debug-f79082b87626e3ce4f51.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca6.2-Debug-6332460e4fbd1988da8a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca6.3-Debug-81d91bcb0e894e07f9a3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca7.2-Debug-2ea7c5c3f598d5572fd9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca7.3-Debug-5b53a30d022c6d46b984.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca8.3-Debug-f91e916d48b2e47d2ce0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca9-Debug-b9b988ff57ed36fee7da.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Zadaca9.2-Debug-a75e97e3e31f1ac673cd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs18.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs18.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs36.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs36.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Zadaca8.dir/KolZadaci/Zadaca8.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Zadaca8.dir/KolZadaci/Zadaca8.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Zadaca8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Zadaca8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,12 +169,7 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Zadaca8">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.Labs18">
     <configuration name="Labs1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -582,6 +515,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -714,7 +652,8 @@
       <workItem from="1687793697607" duration="159000" />
       <workItem from="1687965124159" duration="108000" />
       <workItem from="1687978370403" duration="1000" />
-      <workItem from="1688152926331" duration="4740000" />
+      <workItem from="1688152926331" duration="6034000" />
+      <workItem from="1688219230374" duration="1633000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -807,7 +746,28 @@
       <option name="project" value="LOCAL" />
       <updated>1688161173610</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="avsd">
+      <created>1688162565584</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688162565584</updated>
+    </task>
+    <task id="LOCAL-00015" summary="resena">
+      <created>1688162784213</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688162784213</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solved">
+      <created>1688162822473</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688162822473</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -815,175 +775,92 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="avsd" />
-    <option name="LAST_COMMIT_MESSAGE" value="avsd" />
+    <MESSAGE value="resena" />
+    <MESSAGE value="Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>31</line>
-          <option name="timeStamp" value="28" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>32</line>
-          <option name="timeStamp" value="30" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>35</line>
-          <option name="timeStamp" value="32" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>33</line>
-          <option name="timeStamp" value="33" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>34</line>
-          <option name="timeStamp" value="34" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>37</line>
-          <option name="timeStamp" value="35" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>38</line>
-          <option name="timeStamp" value="36" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>36</line>
-          <option name="timeStamp" value="37" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>39</line>
-          <option name="timeStamp" value="38" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>41</line>
-          <option name="timeStamp" value="39" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>21</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>42</line>
-          <option name="timeStamp" value="40" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>44</line>
-          <option name="timeStamp" value="41" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>20</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>43</line>
-          <option name="timeStamp" value="42" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>45</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>40</line>
-          <option name="timeStamp" value="51" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>29</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>46</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>47</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>52</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>53</line>
-          <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>55</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>56</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>57</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>58</line>
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>59</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>60</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>61</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>62</line>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>51</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>48</line>
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>49</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>50</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/KolZadaci/Zadaca8.c</url>
-          <line>54</line>
-          <option name="timeStamp" value="92" />
+          <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
