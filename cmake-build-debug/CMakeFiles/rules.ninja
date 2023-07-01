@@ -888,6 +888,25 @@ rule C_EXECUTABLE_LINKER__Labs30_Debug
 #############################################
 # Rule for compiling C files.
 
+rule C_COMPILER__Labs31_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = "D:\Programs\CLion 2022.3.3\bin\mingw\bin\gcc.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__Labs31_Debug
+  command = cmd.exe /C "$PRE_LINK && "D:\Programs\CLion 2022.3.3\bin\mingw\bin\gcc.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
 rule C_COMPILER__Labs32_Debug
   depfile = $DEP_FILE
   deps = gcc
@@ -907,7 +926,7 @@ rule C_EXECUTABLE_LINKER__Labs32_Debug
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__Labs31_Debug
+rule C_COMPILER__Labs33_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = "D:\Programs\CLion 2022.3.3\bin\mingw\bin\gcc.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -917,7 +936,7 @@ rule C_COMPILER__Labs31_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__Labs31_Debug
+rule C_EXECUTABLE_LINKER__Labs33_Debug
   command = cmd.exe /C "$PRE_LINK && "D:\Programs\CLion 2022.3.3\bin\mingw\bin\gcc.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT

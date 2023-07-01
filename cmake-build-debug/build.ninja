@@ -1559,6 +1559,39 @@ build Labs30.exe: C_EXECUTABLE_LINKER__Labs30_Debug CMakeFiles/Labs30.dir/LabsKo
   TARGET_PDB = Labs30.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Labs31
+
+
+#############################################
+# Order-only phony target for Labs31
+
+build cmake_object_order_depends_target_Labs31: phony || CMakeFiles/Labs31.dir
+
+build CMakeFiles/Labs31.dir/LabsKol1/Labs31.c.obj: C_COMPILER__Labs31_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs31.c || cmake_object_order_depends_target_Labs31
+  DEP_FILE = CMakeFiles\Labs31.dir\LabsKol1\Labs31.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs31.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs31.dir\LabsKol1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs31
+
+
+#############################################
+# Link the executable Labs31.exe
+
+build Labs31.exe: C_EXECUTABLE_LINKER__Labs31_Debug CMakeFiles/Labs31.dir/LabsKol1/Labs31.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs31.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs31.exe
+  TARGET_IMPLIB = libLabs31.dll.a
+  TARGET_PDB = Labs31.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Labs32
 
 
@@ -1592,37 +1625,37 @@ build Labs32.exe: C_EXECUTABLE_LINKER__Labs32_Debug CMakeFiles/Labs32.dir/LabsKo
   TARGET_PDB = Labs32.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target Labs31
+# Object build statements for EXECUTABLE target Labs33
 
 
 #############################################
-# Order-only phony target for Labs31
+# Order-only phony target for Labs33
 
-build cmake_object_order_depends_target_Labs31: phony || CMakeFiles/Labs31.dir
+build cmake_object_order_depends_target_Labs33: phony || CMakeFiles/Labs33.dir
 
-build CMakeFiles/Labs31.dir/LabsKol1/Labs31.c.obj: C_COMPILER__Labs31_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs31.c || cmake_object_order_depends_target_Labs31
-  DEP_FILE = CMakeFiles\Labs31.dir\LabsKol1\Labs31.c.obj.d
+build CMakeFiles/Labs33.dir/LabsKol1/Labs33.c.obj: C_COMPILER__Labs33_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol1/Labs33.c || cmake_object_order_depends_target_Labs33
+  DEP_FILE = CMakeFiles\Labs33.dir\LabsKol1\Labs33.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Labs31.dir
-  OBJECT_FILE_DIR = CMakeFiles\Labs31.dir\LabsKol1
+  OBJECT_DIR = CMakeFiles\Labs33.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs33.dir\LabsKol1
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Labs31
+# Link build statements for EXECUTABLE target Labs33
 
 
 #############################################
-# Link the executable Labs31.exe
+# Link the executable Labs33.exe
 
-build Labs31.exe: C_EXECUTABLE_LINKER__Labs31_Debug CMakeFiles/Labs31.dir/LabsKol1/Labs31.c.obj
+build Labs33.exe: C_EXECUTABLE_LINKER__Labs33_Debug CMakeFiles/Labs33.dir/LabsKol1/Labs33.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Labs31.dir
+  OBJECT_DIR = CMakeFiles\Labs33.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Labs31.exe
-  TARGET_IMPLIB = libLabs31.dll.a
-  TARGET_PDB = Labs31.exe.dbg
+  TARGET_FILE = Labs33.exe
+  TARGET_IMPLIB = libLabs33.dll.a
+  TARGET_PDB = Labs33.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target Labs34
@@ -2469,6 +2502,8 @@ build Labs31: phony Labs31.exe
 
 build Labs32: phony Labs32.exe
 
+build Labs33: phony Labs33.exe
+
 build Labs34: phony Labs34.exe
 
 build Labs36: phony Labs36.exe
@@ -2559,7 +2594,7 @@ build main: phony main.exe
 #############################################
 # Folder: D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug
 
-build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca12.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs10.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs22.exe Labs23.exe Labs24.exe Labs25.exe Labs26.exe Labs27.exe Labs28.exe Labs29.exe Labs30.exe Labs32.exe Labs31.exe Labs34.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe
+build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca12.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs10.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs22.exe Labs23.exe Labs24.exe Labs25.exe Labs26.exe Labs27.exe Labs28.exe Labs29.exe Labs30.exe Labs31.exe Labs32.exe Labs33.exe Labs34.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe
 
 # =============================================================================
 # Built-in targets
