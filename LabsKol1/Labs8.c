@@ -30,25 +30,28 @@ int main() {
     }
     for (int i = c1; i < c2; ++i) {
         if (sum < balance) {
-            sum += price - c1Discount;
+            sum += price - ((((float) price / 100.0) * ((float) c1Discount / 100.0)) * 100.0);
             counter++;
         }
         if (sum > balance) {
-            sum -= price - c1Discount;
+            sum -= price - ((((float) price / 100.0) * ((float) c1Discount / 100.0)) * 100.0);
             counter--;
             printf("%d %.2f", counter, sum);
             return 0;
         }
     }
-    if(sum < balance) {
+    if (sum < balance) {
         for (int i = 0; i < 100; ++i) {
             if (sum < balance) {
-                sum += price - (c2Discount + c1Discount);
+                sum += price - (((((float) price / 100.0) * ((float) c2Discount / 100.0)) * 100.0) +
+                                ((((float) price / 100.0) * ((float) c1Discount / 100.0)) * 100.0));
                 counter++;
             }
         }
         if (sum > balance) {
-            sum -= price - (c2Discount + c1Discount);
+            sum -= price -
+                   (((((float) price / 100.0) * ((float) c2Discount / 100.0)) * 100.0) +
+                    ((((float) price / 100.0) * ((float) c1Discount / 100.0)) * 100.0));
             counter--;
         }
     }
