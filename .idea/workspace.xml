@@ -62,6 +62,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca3.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs2.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca1.3" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs35" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs36" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs33" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs34" />
@@ -93,7 +94,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KolZadaci/Zadaca12.c" beforeDir="false" afterPath="$PROJECT_DIR$/KolZadaci/Zadaca12.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs35.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs35.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -670,7 +672,7 @@
       <workItem from="1687978370403" duration="1000" />
       <workItem from="1688152926331" duration="6034000" />
       <workItem from="1688219230374" duration="6356000" />
-      <workItem from="1688245498818" duration="4093000" />
+      <workItem from="1688245498818" duration="5063000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -833,7 +835,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688249589654</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Solved">
+      <created>1688249664975</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1688249664975</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
