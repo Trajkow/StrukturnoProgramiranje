@@ -1,33 +1,31 @@
 #include <stdio.h>
 
+int different(char letter) {
+
+    if (letter == ' ') {
+        return 0;
+    }
+    if (letter != 'a' && letter != 'e' && letter != 'i' && letter != 'o' && letter != 'u') {
+        return 1;
+    }
+    return 0;
+}
+
 int main() {
 
-    int a, b, c, d, e;
-    scanf("%d%d%d%d%d", &a, &b, &c, &d, &e);
+    char current, next;
 
-    int sum = 0;
-    float average = 0.0;
-    int counter = 0;
-
-    for (int i = a; i < b; i += c) {
-
-        if ((i * i) % d == 0) {
-            sum += i;
-        }
-        int temp = i;
-        while (temp) {
-            int digit = temp % 10;
-            if (digit == 1) {
-                average += i;
-                counter++;
-                break;
-            }
-            temp /= 10;
+    while ((current = getchar()) != '.' && (next = getchar()) != '.') {
+        if(different(current) && different(next)){
+            printf("%c", next);
+            printf("%c", current);
+        } else{
+            printf("%c", current);
+            printf("%c", next);
         }
     }
 
-    printf("zbir = %d\n", sum);
-    printf("prosek = %.2f", average / counter);
-
+    printf(".");
     return 0;
 }
+
