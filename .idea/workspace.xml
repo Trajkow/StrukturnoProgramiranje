@@ -92,11 +92,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
+    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Not Solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabsKol1/Labs36.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol1/Labs36.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs3.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs3.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Labs3.2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Labs3.2.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +172,7 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Labs36">
+  <component name="RunManager" selected="CMake Application.Labs3.2">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -674,7 +675,7 @@
       <workItem from="1687978370403" duration="1000" />
       <workItem from="1688152926331" duration="6034000" />
       <workItem from="1688219230374" duration="6356000" />
-      <workItem from="1688245498818" duration="11627000" />
+      <workItem from="1688245498818" duration="12623000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -872,7 +873,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688257021493</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Not Solved">
+      <created>1688259182918</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1688259182918</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -882,9 +890,9 @@
     <MESSAGE value="avsd" />
     <MESSAGE value="resena" />
     <MESSAGE value="Not solved" />
-    <MESSAGE value="Not Solved" />
     <MESSAGE value="Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
+    <MESSAGE value="Not Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not Solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -923,6 +931,46 @@
           <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
           <line>23</line>
           <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>19</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>20</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>21</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>24</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
+          <line>25</line>
+          <option name="timeStamp" value="352" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
