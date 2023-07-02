@@ -24,7 +24,9 @@ int main() {
     for (int i = 0; i < n; ++i) {
 
         scanf("%d", &num);
-
+        if(num % 10 == 0 || (num % 100) / 10 == 0){
+            continue;
+        }
         int reverse = reverseNumber(num);
         while (reverse) {
             int digit = reverse % 10;
