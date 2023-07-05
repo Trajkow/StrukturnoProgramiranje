@@ -29,6 +29,9 @@
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca4" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca13.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca5" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs7.2" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs5.2" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs9.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca6.3" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca6.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca4.2" />
@@ -41,6 +44,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="Labs10" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca16.2" />
       <config projectName="StrukturnoProgramiranje" targetName="main" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs10.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca9.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca7.3" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs24" />
@@ -51,11 +55,13 @@
       <config projectName="StrukturnoProgramiranje" targetName="Labs21" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca12.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca14.2" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs6.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs19" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs4.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs17" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs18" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs15" />
+      <config projectName="StrukturnoProgramiranje" targetName="Labs8.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs16" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca7.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca5.2" />
@@ -82,6 +88,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="Labs29.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs6" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs1" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs11.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs3" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs2" />
     </generated>
@@ -92,13 +99,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Not Solved">
+    <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs10.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs11.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs5.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs6.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs7.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs8.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs9.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs3.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs3.2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs4.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs4.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Labs3.2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Labs3.2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,12 +189,7 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Labs3.2">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.LabsKol2_Labs11.2">
     <configuration name="Labs1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -363,7 +375,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Labs5.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs5.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs5.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Labs6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Labs6.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs6.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs6.2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -373,12 +395,37 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Labs7.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs7.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs7.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Labs8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs8">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Labs8.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs8.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs8.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Labs9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Labs9.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs9.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs9.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabsKol2_Labs10.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="LabsKol2_Labs10.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="LabsKol2_Labs10.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabsKol2_Labs11.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="LabsKol2_Labs11.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="LabsKol2_Labs11.2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -581,10 +628,17 @@
       <item itemvalue="CMake Application.Labs4" />
       <item itemvalue="CMake Application.Labs4.2" />
       <item itemvalue="CMake Application.Labs5" />
+      <item itemvalue="CMake Application.Labs5.2" />
       <item itemvalue="CMake Application.Labs6" />
+      <item itemvalue="CMake Application.Labs6.2" />
       <item itemvalue="CMake Application.Labs7" />
+      <item itemvalue="CMake Application.Labs7.2" />
       <item itemvalue="CMake Application.Labs8" />
+      <item itemvalue="CMake Application.Labs8.2" />
       <item itemvalue="CMake Application.Labs9" />
+      <item itemvalue="CMake Application.Labs9.2" />
+      <item itemvalue="CMake Application.LabsKol2_Labs10.2" />
+      <item itemvalue="CMake Application.LabsKol2_Labs11.2" />
       <item itemvalue="CMake Application.main" />
       <item itemvalue="CMake Application.Zadaca1" />
       <item itemvalue="CMake Application.Zadaca1.3" />
@@ -675,7 +729,9 @@
       <workItem from="1687978370403" duration="1000" />
       <workItem from="1688152926331" duration="6034000" />
       <workItem from="1688219230374" duration="6356000" />
-      <workItem from="1688245498818" duration="12623000" />
+      <workItem from="1688245498818" duration="13669000" />
+      <workItem from="1688298202381" duration="11350000" />
+      <workItem from="1688574509447" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -880,7 +936,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688259182918</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Solved">
+      <created>1688260089276</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1688260089276</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -890,9 +953,9 @@
     <MESSAGE value="avsd" />
     <MESSAGE value="resena" />
     <MESSAGE value="Not solved" />
-    <MESSAGE value="Solved" />
     <MESSAGE value="Not Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Not Solved" />
+    <MESSAGE value="Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -931,46 +994,6 @@
           <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
           <line>23</line>
           <option name="timeStamp" value="335" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>18</line>
-          <option name="timeStamp" value="345" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>19</line>
-          <option name="timeStamp" value="346" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>20</line>
-          <option name="timeStamp" value="347" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>21</line>
-          <option name="timeStamp" value="348" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>22</line>
-          <option name="timeStamp" value="349" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>23</line>
-          <option name="timeStamp" value="350" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>24</line>
-          <option name="timeStamp" value="351" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/LabsKol2/Labs3.2.c</url>
-          <line>25</line>
-          <option name="timeStamp" value="352" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

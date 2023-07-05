@@ -2252,6 +2252,171 @@ build Labs4.2.exe: C_EXECUTABLE_LINKER__Labs4.2e2_Debug CMakeFiles/Labs4.2.dir/L
   TARGET_PDB = Labs4.2.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Labs5.2
+
+
+#############################################
+# Order-only phony target for Labs5.2
+
+build cmake_object_order_depends_target_Labs5.2: phony || CMakeFiles/Labs5.2.dir
+
+build CMakeFiles/Labs5.2.dir/LabsKol2/Labs5.2.c.obj: C_COMPILER__Labs5.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs5.2.c || cmake_object_order_depends_target_Labs5.2
+  DEP_FILE = CMakeFiles\Labs5.2.dir\LabsKol2\Labs5.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs5.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs5.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs5.2
+
+
+#############################################
+# Link the executable Labs5.2.exe
+
+build Labs5.2.exe: C_EXECUTABLE_LINKER__Labs5.2e2_Debug CMakeFiles/Labs5.2.dir/LabsKol2/Labs5.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs5.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs5.2.exe
+  TARGET_IMPLIB = libLabs5.2.dll.a
+  TARGET_PDB = Labs5.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Labs6.2
+
+
+#############################################
+# Order-only phony target for Labs6.2
+
+build cmake_object_order_depends_target_Labs6.2: phony || CMakeFiles/Labs6.2.dir
+
+build CMakeFiles/Labs6.2.dir/LabsKol2/Labs6.2.c.obj: C_COMPILER__Labs6.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs6.2.c || cmake_object_order_depends_target_Labs6.2
+  DEP_FILE = CMakeFiles\Labs6.2.dir\LabsKol2\Labs6.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs6.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs6.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs6.2
+
+
+#############################################
+# Link the executable Labs6.2.exe
+
+build Labs6.2.exe: C_EXECUTABLE_LINKER__Labs6.2e2_Debug CMakeFiles/Labs6.2.dir/LabsKol2/Labs6.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs6.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs6.2.exe
+  TARGET_IMPLIB = libLabs6.2.dll.a
+  TARGET_PDB = Labs6.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Labs7.2
+
+
+#############################################
+# Order-only phony target for Labs7.2
+
+build cmake_object_order_depends_target_Labs7.2: phony || CMakeFiles/Labs7.2.dir
+
+build CMakeFiles/Labs7.2.dir/LabsKol2/Labs7.2.c.obj: C_COMPILER__Labs7.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs7.2.c || cmake_object_order_depends_target_Labs7.2
+  DEP_FILE = CMakeFiles\Labs7.2.dir\LabsKol2\Labs7.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs7.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs7.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs7.2
+
+
+#############################################
+# Link the executable Labs7.2.exe
+
+build Labs7.2.exe: C_EXECUTABLE_LINKER__Labs7.2e2_Debug CMakeFiles/Labs7.2.dir/LabsKol2/Labs7.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs7.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs7.2.exe
+  TARGET_IMPLIB = libLabs7.2.dll.a
+  TARGET_PDB = Labs7.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Labs8.2
+
+
+#############################################
+# Order-only phony target for Labs8.2
+
+build cmake_object_order_depends_target_Labs8.2: phony || CMakeFiles/Labs8.2.dir
+
+build CMakeFiles/Labs8.2.dir/LabsKol2/Labs8.2.c.obj: C_COMPILER__Labs8.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs8.2.c || cmake_object_order_depends_target_Labs8.2
+  DEP_FILE = CMakeFiles\Labs8.2.dir\LabsKol2\Labs8.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs8.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs8.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs8.2
+
+
+#############################################
+# Link the executable Labs8.2.exe
+
+build Labs8.2.exe: C_EXECUTABLE_LINKER__Labs8.2e2_Debug CMakeFiles/Labs8.2.dir/LabsKol2/Labs8.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs8.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs8.2.exe
+  TARGET_IMPLIB = libLabs8.2.dll.a
+  TARGET_PDB = Labs8.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Labs9.2
+
+
+#############################################
+# Order-only phony target for Labs9.2
+
+build cmake_object_order_depends_target_Labs9.2: phony || CMakeFiles/Labs9.2.dir
+
+build CMakeFiles/Labs9.2.dir/LabsKol2/Labs9.2.c.obj: C_COMPILER__Labs9.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs9.2.c || cmake_object_order_depends_target_Labs9.2
+  DEP_FILE = CMakeFiles\Labs9.2.dir\LabsKol2\Labs9.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Labs9.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Labs9.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Labs9.2
+
+
+#############################################
+# Link the executable Labs9.2.exe
+
+build Labs9.2.exe: C_EXECUTABLE_LINKER__Labs9.2e2_Debug CMakeFiles/Labs9.2.dir/LabsKol2/Labs9.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Labs9.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Labs9.2.exe
+  TARGET_IMPLIB = libLabs9.2.dll.a
+  TARGET_PDB = Labs9.2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Labs29.2
 
 
@@ -2449,6 +2614,72 @@ build Zadaca11.3.exe: C_EXECUTABLE_LINKER__Zadaca11.2e3_Debug CMakeFiles/Zadaca1
   TARGET_IMPLIB = libZadaca11.3.dll.a
   TARGET_PDB = Zadaca11.3.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target LabsKol2_Labs10.2
+
+
+#############################################
+# Order-only phony target for LabsKol2_Labs10.2
+
+build cmake_object_order_depends_target_LabsKol2_Labs10.2: phony || CMakeFiles/LabsKol2_Labs10.2.dir
+
+build CMakeFiles/LabsKol2_Labs10.2.dir/LabsKol2/Labs10.2.c.obj: C_COMPILER__LabsKol2_Labs10.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs10.2.c || cmake_object_order_depends_target_LabsKol2_Labs10.2
+  DEP_FILE = CMakeFiles\LabsKol2_Labs10.2.dir\LabsKol2\Labs10.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LabsKol2_Labs10.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\LabsKol2_Labs10.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LabsKol2_Labs10.2
+
+
+#############################################
+# Link the executable LabsKol2_Labs10.2.exe
+
+build LabsKol2_Labs10.2.exe: C_EXECUTABLE_LINKER__LabsKol2_Labs10.2e2_Debug CMakeFiles/LabsKol2_Labs10.2.dir/LabsKol2/Labs10.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LabsKol2_Labs10.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LabsKol2_Labs10.2.exe
+  TARGET_IMPLIB = libLabsKol2_Labs10.2.dll.a
+  TARGET_PDB = LabsKol2_Labs10.2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target LabsKol2_Labs11.2
+
+
+#############################################
+# Order-only phony target for LabsKol2_Labs11.2
+
+build cmake_object_order_depends_target_LabsKol2_Labs11.2: phony || CMakeFiles/LabsKol2_Labs11.2.dir
+
+build CMakeFiles/LabsKol2_Labs11.2.dir/LabsKol2/Labs11.2.c.obj: C_COMPILER__LabsKol2_Labs11.2e2_Debug D$:/Fakultet/Semestar1/StrukturnoProgramiranje/LabsKol2/Labs11.2.c || cmake_object_order_depends_target_LabsKol2_Labs11.2
+  DEP_FILE = CMakeFiles\LabsKol2_Labs11.2.dir\LabsKol2\Labs11.2.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LabsKol2_Labs11.2.dir
+  OBJECT_FILE_DIR = CMakeFiles\LabsKol2_Labs11.2.dir\LabsKol2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LabsKol2_Labs11.2
+
+
+#############################################
+# Link the executable LabsKol2_Labs11.2.exe
+
+build LabsKol2_Labs11.2.exe: C_EXECUTABLE_LINKER__LabsKol2_Labs11.2e2_Debug CMakeFiles/LabsKol2_Labs11.2.dir/LabsKol2/Labs11.2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LabsKol2_Labs11.2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LabsKol2_Labs11.2.exe
+  TARGET_IMPLIB = libLabsKol2_Labs11.2.dll.a
+  TARGET_PDB = LabsKol2_Labs11.2.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2549,13 +2780,27 @@ build Labs4.2: phony Labs4.2.exe
 
 build Labs5: phony Labs5.exe
 
+build Labs5.2: phony Labs5.2.exe
+
 build Labs6: phony Labs6.exe
+
+build Labs6.2: phony Labs6.2.exe
 
 build Labs7: phony Labs7.exe
 
+build Labs7.2: phony Labs7.2.exe
+
 build Labs8: phony Labs8.exe
 
+build Labs8.2: phony Labs8.2.exe
+
 build Labs9: phony Labs9.exe
+
+build Labs9.2: phony Labs9.2.exe
+
+build LabsKol2_Labs10.2: phony LabsKol2_Labs10.2.exe
+
+build LabsKol2_Labs11.2: phony LabsKol2_Labs11.2.exe
 
 build Zadaca1: phony Zadaca1.exe
 
@@ -2629,7 +2874,7 @@ build main: phony main.exe
 #############################################
 # Folder: D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug
 
-build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca12.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs10.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs22.exe Labs23.exe Labs24.exe Labs25.exe Labs26.exe Labs27.exe Labs28.exe Labs29.exe Labs30.exe Labs31.exe Labs32.exe Labs33.exe Labs34.exe Labs35.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe
+build all: phony main.exe Zadaca1.exe Zadaca2.exe Zadaca3.exe Zadaca4.exe Zadaca5.exe Zadaca6.exe Zadaca7.exe Zadaca8.exe Zadaca9.exe Zadaca10.exe Zadaca11.exe Zadaca12.exe Zadaca13.exe Zadaca14.exe Zadaca15.exe Labs1.exe Labs2.exe Labs3.exe Labs4.exe Labs5.exe Labs6.exe Labs7.exe Labs8.exe Labs9.exe Labs10.exe Labs11.exe Labs12.exe Labs13.exe Labs14.exe Labs15.exe Labs16.exe Labs17.exe Labs18.exe Labs19.exe Labs20.exe Labs21.exe Labs22.exe Labs23.exe Labs24.exe Labs25.exe Labs26.exe Labs27.exe Labs28.exe Labs29.exe Labs30.exe Labs31.exe Labs32.exe Labs33.exe Labs34.exe Labs35.exe Labs36.exe Zadaca3.2.exe Zadaca4.2.exe Zadaca5.2.exe Zadaca6.2.exe Zadaca7.2.exe Zadaca9.2.exe Zadaca12.2.exe Zadaca13.2.exe Zadaca14.2.exe Zadaca16.2.exe Zadaca17.2.exe Labs1.2.exe Labs2.2.exe Labs3.2.exe Labs4.2.exe Labs5.2.exe Labs6.2.exe Labs7.2.exe Labs8.2.exe Labs9.2.exe Labs29.2.exe Zadaca1.3.exe Zadaca6.3.exe Zadaca7.3.exe Zadaca8.3.exe Zadaca11.3.exe LabsKol2_Labs10.2.exe LabsKol2_Labs11.2.exe
 
 # =============================================================================
 # Built-in targets
