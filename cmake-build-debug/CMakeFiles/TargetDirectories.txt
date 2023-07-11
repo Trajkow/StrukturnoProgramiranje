@@ -78,5 +78,12 @@ D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Zadac
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/Zadaca11.3.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs10.2.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs11.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs12.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs13.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs14.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs15.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs16.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs17.2.dir
+D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/LabsKol2_Labs18.2.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Fakultet/Semestar1/StrukturnoProgramiranje/cmake-build-debug/CMakeFiles/rebuild_cache.dir
