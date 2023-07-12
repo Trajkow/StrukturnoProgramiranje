@@ -28,6 +28,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs12.2" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs16.2" />
       <config projectName="StrukturnoProgramiranje" targetName="main" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs31.2" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs25.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca9.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs24" />
@@ -68,6 +69,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="Labs29.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs6" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs1" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs32.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs3" />
       <config projectName="StrukturnoProgramiranje" targetName="Labs2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca2" />
@@ -96,6 +98,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="Labs10" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca16.2" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs10.2" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs33.2" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs23.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca7.3" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs27.2" />
@@ -108,6 +111,7 @@
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs19.2" />
       <config projectName="StrukturnoProgramiranje" targetName="Zadaca17.2" />
       <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs11.2" />
+      <config projectName="StrukturnoProgramiranje" targetName="LabsKol2_Labs30.2" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -117,15 +121,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs21.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs22.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs23.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs24.2.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LabsKol2/Labs25.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs26.2.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LabsKol2/Labs27.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs28.2.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LabsKol2/Labs30.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs31.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs32.2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs33.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
@@ -207,7 +208,12 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.LabsKol2_Labs24.2">
+  <component name="RunManager" selected="CMake Application.LabsKol2_Labs32.2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Labs1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -538,6 +544,21 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LabsKol2_Labs31.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="LabsKol2_Labs31.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="LabsKol2_Labs31.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabsKol2_Labs32.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="LabsKol2_Labs32.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="LabsKol2_Labs32.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LabsKol2_Labs33.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="LabsKol2_Labs33.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="LabsKol2_Labs33.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zadaca1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Zadaca1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Zadaca1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -693,11 +714,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="main">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -770,6 +786,9 @@
       <item itemvalue="CMake Application.LabsKol2_Labs27.2" />
       <item itemvalue="CMake Application.LabsKol2_Labs28.2" />
       <item itemvalue="CMake Application.LabsKol2_Labs30.2" />
+      <item itemvalue="CMake Application.LabsKol2_Labs31.2" />
+      <item itemvalue="CMake Application.LabsKol2_Labs32.2" />
+      <item itemvalue="CMake Application.LabsKol2_Labs33.2" />
       <item itemvalue="CMake Application.main" />
       <item itemvalue="CMake Application.Zadaca1" />
       <item itemvalue="CMake Application.Zadaca1.3" />
@@ -870,7 +889,8 @@
       <workItem from="1688924689081" duration="2000" />
       <workItem from="1688999389750" duration="4071000" />
       <workItem from="1689042214023" duration="8504000" />
-      <workItem from="1689078457736" duration="5803000" />
+      <workItem from="1689078457736" duration="6526000" />
+      <workItem from="1689123681199" duration="4079000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -1103,7 +1123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689050806696</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Solved">
+      <created>1689084573879</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1689084573879</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
