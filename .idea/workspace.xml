@@ -122,19 +122,13 @@
   <component name="ChangeListManager">
     <list default="true" id="97e86e71-0228-4e1a-bb5c-b97de70a3d20" name="Changes" comment="Solved">
       <change afterPath="$PROJECT_DIR$/LabsKol2/Labs25.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs27.2.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LabsKol2/Labs30.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs31.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs32.2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabsKol2/Labs33.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabsKol2/Labs17.2.c" beforeDir="false" afterPath="$PROJECT_DIR$/LabsKol2/Labs17.2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,12 +202,7 @@
       <recent name="D:\Fakultet\Semestar1\StrukturnoProgramiranje\LabsKol2" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.LabsKol2_Labs32.2">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.LabsKol2_Labs25.2">
     <configuration name="Labs1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="StrukturnoProgramiranje" TARGET_NAME="Labs1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="StrukturnoProgramiranje" RUN_TARGET_NAME="Labs1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -890,7 +879,10 @@
       <workItem from="1688999389750" duration="4071000" />
       <workItem from="1689042214023" duration="8504000" />
       <workItem from="1689078457736" duration="6526000" />
-      <workItem from="1689123681199" duration="4079000" />
+      <workItem from="1689123681199" duration="4721000" />
+      <workItem from="1689219704285" duration="570000" />
+      <workItem from="1689226644119" duration="809000" />
+      <workItem from="1689272283827" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="avsd">
       <created>1687441796063</created>
@@ -1130,7 +1122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689084573879</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Solved">
+      <created>1689127840991</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1689127840991</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1181,6 +1180,111 @@
           <url>file://$PROJECT_DIR$/LabsKol1/Labs36.c</url>
           <line>23</line>
           <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>18</line>
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>19</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>20</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>23</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>24</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>25</line>
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>26</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>28</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>10</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>9</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>8</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>7</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>6</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>4</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>5</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>12</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>29</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>31</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>32</line>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LabsKol2/Labs25.2.c</url>
+          <line>34</line>
+          <option name="timeStamp" value="423" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

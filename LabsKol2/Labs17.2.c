@@ -7,15 +7,15 @@ int main() {
     int m, n;
     scanf("%d%d", &m, &n);
 
-    float matrix[m][n];
+    double matrix[m][n];
     for (int i = 0; i < m; ++i) {
         for (int j = 0; j < n; ++j) {
-            scanf("%f", &matrix[i][j]);
+            scanf("%lf", &matrix[i][j]);
         }
     }
 
-    float min = 9999;
-    float max = 0;
+    double min = 9999;
+    double max = 0;
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < m; ++j) {
             if (matrix[j][i] < min) {
@@ -32,13 +32,14 @@ int main() {
         max = 0;
     }
 
+
     for (int i = 0; i < m; ++i) {
         for (int j = 0; j < n; ++j) {
 //            printf("%.2f ", ceilf(matrix[i][j] * 100) / 100);
-            printf("%.2f ", matrix[i][j]);
+            printf("%.2lf ", matrix[i][j]);
         }
-        printf("\n");
-    }
+    printf("\n");
+}
 
-    return 0;
+return 0;
 }
