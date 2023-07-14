@@ -14,25 +14,26 @@ int reverse(int num) {
 
 }
 
-int function(int num) {
+int function(int num, int number) {
 
-    int number = 1;
-    while (num) {
-        int digit = num % 10;
 
-        if (digit % 2 == 0) {
-            digit = 0;
-        } else {
-            digit -= 1;
-        }
-
-        number += digit;
-        number *= 10;
-
-        num /= 10;
+    if (num == 0) {
+        return number;
     }
 
-    return number;
+    int digit = num % 10;
+
+    if (digit % 2 == 0) {
+        digit = 0;
+    } else {
+        digit -= 1;
+    }
+
+    number += digit;
+    number *= 10;
+
+    return function(num / 10, number);
+
 }
 
 int main() {
@@ -40,7 +41,7 @@ int main() {
     int num;
     scanf("%d", &num);
 
-    printf("Brojot e %d", (reverse(function(num)) / 10) - 1);
+    printf("Brojot e %d", (reverse(function(num, 1)) / 10) - 1);
 
     return 0;
 }
